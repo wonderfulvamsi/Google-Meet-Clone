@@ -1,0 +1,7 @@
+Auth Server: https://us-central1-vid-chat-auth-server.cloudfunctions.net/expressApi/
+
+/auth/signup
+{
+    email,
+    password
+}

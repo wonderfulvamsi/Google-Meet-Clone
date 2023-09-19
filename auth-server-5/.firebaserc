@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "vid-chat-auth-server"
+  }
+}
